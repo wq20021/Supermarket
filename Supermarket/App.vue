@@ -14,4 +14,10 @@
 
 <style>
 	/*每个页面公共css */
+	.page{
+		width: 100%;
+		height: 100%;
+		background-color: rgb(250, 250, 250);
+	}
+	
 </style>
